@@ -1,0 +1,4 @@
+CREATE TABLE emp 
+empno INT PRIMARY KEY,
+ename VARCHAR(10),
+job VARCHAR(9),
